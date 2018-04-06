@@ -1,0 +1,20 @@
+{
+  "name": "team-profiler",
+  "version": "0.0.0",
+  "description": "A class profiler that will be intergrated into a game.",
+  "main": "server.js",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-run": "^1.7.1"
+  },
+  "license": "ISC"
+}
